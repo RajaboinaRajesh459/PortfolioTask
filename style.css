@@ -1,0 +1,73 @@
+body{
+    background-color: bisque;
+    columns: 2 ;
+    column-rule-style: dashed;
+    column-rule-color: brown;
+    column-rule-width:3% ;
+}
+header img {
+    border-radius: 90px;
+    border-style: dashed;
+    border-color: rgba(16, 225, 93, 0.7);
+}
+header h1 {
+    color: cornflowerblue;
+    text-shadow: 0.5px 1px;
+    letter-spacing: 3px;
+    background-color: aliceblue;
+}
+header b {
+    color: darkblue;
+    letter-spacing: 3px;
+    text-decoration: underline;
+}
+nav b{
+    color: rgb(247, 7, 247);
+}
+nav a{
+    text-decoration: none;
+    color: rgb(32, 218, 54);
+}
+.para h3{
+    color: coral;
+    text-decoration:underline wavy olivedrab;
+    background-color: aliceblue;
+}
+.para p{
+    color: blueviolet;
+}
+.skills h3{
+    color: rgba(0, 128, 0, 0.738);
+    text-decoration: underline wavy coral;
+    background-color: aliceblue;
+}
+.skills ol li{
+    color: royalblue;
+    text-decoration:underline solid cadetblue; 
+}
+li meter {
+    color: coral;
+    text-align: center;
+}
+.projects h3{
+    color: crimson;
+    text-decoration: underline wavy coral;
+    background-color: aliceblue;
+}
+.projects i{
+    background-color: azure;
+    text-decoration: underline cyan;
+}
+.projects p{
+    color: darkcyan;
+    background-color: white;
+}
+.education h3{
+    color:tomato;
+    text-decoration: underline wavy coral;
+    background-color: aliceblue;
+}
+.education p{
+    color: rgb(250, 25, 25);
+}
+
